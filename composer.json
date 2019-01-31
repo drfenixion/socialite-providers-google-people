@@ -3,7 +3,7 @@
     "description": "Google OAuth2 Provider for Laravel Socialite",
     "license": "MIT",
     "authors": [{
-        "name": "Vasily S",
+        "name": "Vasily S"
     }],
     "require": {
         "php": "^5.6 || ^7.0",
