@@ -1,10 +1,9 @@
 {
-    "name": "socialiteproviders/google",
+    "name": "drfenixion/socialite-providers-google-people",
     "description": "Google OAuth2 Provider for Laravel Socialite",
     "license": "MIT",
     "authors": [{
-        "name": "Brian Faust",
-        "email": "hello@brianfaust.de"
+        "name": "Vasily S",
     }],
     "require": {
         "php": "^5.6 || ^7.0",
